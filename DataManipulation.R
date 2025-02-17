@@ -1,0 +1,1 @@
+sum(is.na(dat))
